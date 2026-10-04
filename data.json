@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "last_updated": "2026-10-04",
+  "contacts": [
+    {
+      "id": "1",
+      "title": "Emergency Helpline (পুলিশ, ফায়ার, অ্যাম্বুলেন্স)",
+      "number": "112",
+      "subtitle": "West Bengal Integrated"
+    },
+    {
+      "id": "2",
+      "title": "National Ambulance Service",
+      "number": "102",
+      "subtitle": "Toll Free Medical Emergency"
+    },
+    {
+      "id": "3",
+      "title": "West Bengal Health Helpline",
+      "number": "03324150600",
+      "subtitle": "State Health Dept"
+    },
+    {
+      "id": "4",
+      "title": "Child Helpline",
+      "number": "1098",
+      "subtitle": "Child Rights & Care"
+    }
+  ],
+  "first_aid": [
+    {
+      "id": "cpr",
+      "titleBn": "সিপিআর (CPR)",
+      "titleEn": "Cardiopulmonary Resuscitation",
+      "category": "Emergency",
+      "steps": [
+        "রোগীকে শক্ত ও সমতল স্থানে শোয়ান।",
+        "বুকের মাঝখানে দুই হাত রেখে পরপর ৩০ বার জোরে চাপ দিন।",
+        "মুখে মুখ রেখে ২ বার শ্বাস দিন।"
+      ]
+    },
+    {
+      "id": "choking",
+      "titleBn": "গলায় কিছু আটকানো (Choking)",
+      "titleEn": "Choking Emergency",
+      "category": "Emergency",
+      "steps": [
+        "আক্রান্ত ব্যক্তিকে সামনে ঝুঁকিয়ে পিঠে ৫ বার থাপ্পড় দিন।",
+        "কাজ না হলে পেটে পেছন থেকে জড়িয়ে ধরে ওপরের দিকে চাপ দিন (Heimlich Maneuver)।"
+      ]
+    }
+  ]
+}
