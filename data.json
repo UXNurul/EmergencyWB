@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "last_updated": "2026-10-04",
   "contacts": [
     {
@@ -25,6 +25,72 @@
       "title": "Child Helpline",
       "number": "1098",
       "subtitle": "Child Rights & Care"
+    },
+    {
+      "id": "5",
+      "title": "Police Control Room",
+      "number": "100",
+      "subtitle": "West Bengal Police Emergency"
+    },
+    {
+      "id": "6",
+      "title": "Fire & Rescue Service",
+      "number": "101",
+      "subtitle": "Fire Emergency Hotline"
+    },
+    {
+      "id": "7",
+      "title": "Women Helpline",
+      "number": "1091",
+      "subtitle": "Women Safety & Emergency"
+    },
+    {
+      "id": "8",
+      "title": "Kolkata Police Emergency Hotline",
+      "number": "1070",
+      "subtitle": "Kolkata Police Control Room"
+    },
+    {
+      "id": "9",
+      "title": "Cyber Crime Helpline",
+      "number": "1930",
+      "subtitle": "National Cyber Crime Reporting"
+    },
+    {
+      "id": "10",
+      "title": "Disaster Management Helpline",
+      "number": "1077",
+      "subtitle": "State Disaster Response (WB)"
+    },
+    {
+      "id": "11",
+      "title": "Senior Citizen Helpline (Pranam)",
+      "number": "03324190740",
+      "subtitle": "Kolkata Police Support for Seniors"
+    },
+    {
+      "id": "12",
+      "title": "Mental Health Support (Tele-MANAS)",
+      "number": "14416",
+      "subtitle": "Toll-Free Mental Health Helpline"
+    },
+    {
+      "id": "13",
+      "title": "Railway Protection Force (RPF)",
+      "number": "139",
+      "subtitle": "Train & Station Security Emergency"
+    },
+    {
+      "id": "14",
+      "title": "West Bengal Electricity Emergency (WBSEDCL)",
+      "number": "19121",
+      "subtitle": "Power Cut & Electrical Hazard Support"
+    },
+    {
+      "id": "15",
+      "title": "CESC Emergency (Kolkata & Suburbs)",
+      "number": "1912",
+      "subtitle": "CESC Power Outages & Safety"
     }
   ],
   "first_aid": [
@@ -34,19 +100,19 @@
       "titleEn": "Cardiopulmonary Resuscitation",
       "category": "Emergency",
       "steps": [
-        "রোগীকে শক্ত ও সমতল স্থানে শোয়ান।",
+        "রোগীকে শক্ত ও সমতল স্থানে শোয়ান।",
         "বুকের মাঝখানে দুই হাত রেখে পরপর ৩০ বার জোরে চাপ দিন।",
         "মুখে মুখ রেখে ২ বার শ্বাস দিন।"
       ]
     },
     {
       "id": "choking",
-      "titleBn": "গলায় কিছু আটকানো (Choking)",
+      "titleBn": "গলায় কিছু আটকানো (Choking)",
       "titleEn": "Choking Emergency",
       "category": "Emergency",
       "steps": [
-        "আক্রান্ত ব্যক্তিকে সামনে ঝুঁকিয়ে পিঠে ৫ বার থাপ্পড় দিন।",
-        "কাজ না হলে পেটে পেছন থেকে জড়িয়ে ধরে ওপরের দিকে চাপ দিন (Heimlich Maneuver)।"
+        "আক্রান্ত ব্যক্তিকে সামনে ঝুঁকিয়ে পিঠে ৫ বার থাপ্পড় দিন।",
+        "কাজ না হলে পেটে পেছন থেকে জড়িয়ে ধরে ওপরের দিকে চাপ দিন (Heimlich Maneuver)।"
       ]
     }
   ]
